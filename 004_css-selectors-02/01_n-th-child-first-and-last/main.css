@@ -1,0 +1,11 @@
+ul{
+    font-size: 30px;
+}
+
+li:first-child{
+    color: red;
+}
+
+li:last-child{
+    color: forestgreen;
+}

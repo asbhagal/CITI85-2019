@@ -1,0 +1,8 @@
+ul{
+    font-size: 35px;
+}
+
+
+li:nth-child(3){
+    color: red;
+}
