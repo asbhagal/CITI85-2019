@@ -1,0 +1,29 @@
+body{
+    font-size: 20px;
+}
+div{
+    width: 200px;
+    height: 100px;
+    border: 2px solid black;
+    padding: 5%;
+}
+
+h1{color: gold}
+.H{color: black}
+
+div{color: aqua}
+
+p{color: indigo}
+.h{color: red}
+.g{color: lime}
+.i{color: hotpink}
+
+
+.cinco{color: green}
+
+
+#Division{
+    color: blue;
+    text-align: center;
+}
+

@@ -1,0 +1,9 @@
+body{
+    font-size: 80px;
+    text-align: center;
+    color: red;
+}
+
+h1{
+text-shadow: 0 10px 10px deepskyblue;
+}

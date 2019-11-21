@@ -1,0 +1,13 @@
+*{
+    margin: 20px auto;
+}
+
+
+div{
+    color: darkblue;
+}
+
+span{
+    color: red;
+    padding: 10px;
+}

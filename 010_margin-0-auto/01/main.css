@@ -1,0 +1,25 @@
+html{
+    background-color: #00539d;
+}
+
+body{
+    width: 60%;
+    margin: 0 auto;
+    background-color: #43fc22;
+    border: 4px solid black;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 100%;
+    border: 10px ridge gold;
+}
+
+.one{
+    color: blue;
+}
+
+.two{
+    color: red;
+}
