@@ -1,0 +1,16 @@
+*{
+    border: 4px solid black;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+#Rel{
+    position: relative;
+    left: 20px;
+    top: 20px;
+    background-color: orangered;
+}

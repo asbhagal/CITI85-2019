@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 700px;
+    border: 2px solid red;
+}
+
+div{
+    width: 150px;
+    height: 75px;
+    border: 1px solid black;
+    text-align:center;
+    background-color: orangered;
+    margin: 1em;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 100px;
+}

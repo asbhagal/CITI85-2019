@@ -4,28 +4,16 @@
     font-size: 40px;
 }
 
-header{
-    font-size: 20px;
-}
 nav{
     font-size: 30px;
 }
 
 li{
+    list-style: none;
     display: inline-block;
-padding: 6%;
-    font-weight: bold;
+    padding: 4%;
 }
 
-li:hover{
-    color: blue;
-}
-
-.question:hover{
+.Y{
     color: red;
-}
-
-aside{
-    font-style: italic;
-    color: green;
 }
