@@ -1,0 +1,28 @@
+html, body, ul, a, li{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a:hover{
+    background: royalblue;
+}
+
+a{
+    display: block;
+}
+
+ul{
+    display: flex;
+    flex-flow: column nowrap;
+    list-style: none;
+    background: deepskyblue;
+}
+
+a{
+    text-decoration: none;
+    padding: 20px 0;
+    color: white;
+    text-align: center;
+}

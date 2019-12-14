@@ -1,0 +1,21 @@
+
+
+div{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    border: 1px solid black;
+    background-color: blue;
+    color: red;
+}
+
+div:hover{
+    background-color: red;
+    color: blue;
+}
+
+.T{
+ transition: all;
+    transition-duration: 2s;
+    transition-timing-function: ease;
+}
