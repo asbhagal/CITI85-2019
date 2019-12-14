@@ -20,7 +20,7 @@ div{
 display: flex;
     flex-flow: row nowrap;
     font:30px sans-serif;
-    height: 150px;
+    height: 100vh;
     justify-content: center;
     align-items: center;
     border: 1px solid black;
